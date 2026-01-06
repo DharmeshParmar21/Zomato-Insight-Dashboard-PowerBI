@@ -6,16 +6,16 @@
 ---
 
 ## 📚 Table of Contents  
-1. [Project Overview](#project-overview)  
-2. [Repository Structure](#repository-structure)  
-3. [Objective of the Analysis](#objective-of-the-analysis)  
-4. [Dataset & Methodology](#dataset--methodology)  
-5. [Dashboard Summary](#dashboard-summary)  
-6. [How to Use the Dashboard](#how-to-use-the-dashboard)  
-7. [Insights & Key Findings](#insights--key-findings)  
-8. [Business Value & Recommendations](#business-value--recommendations)  
-9. [Project Files](#project-files)  
-10. [Author](#author)
+1. [📘 Project Overview](#-project-overview)  
+2. [📁 Repository Structure](#-repository-structure)  
+3. [🎯 Objective of the Analysis](#-objective-of-the-analysis)  
+4. [📊 Dataset & Methodology](#-dataset--methodology)  
+5. [📈 Dashboard Summary](#-dashboard-summary)  
+6. [🧭 How to Use the Dashboard](#-how-to-use-the-dashboard)  
+7. [🔍 Insights & Key Findings](#-insights--key-findings)  
+8. [💼 Business Value & Recommendations](#-business-value--recommendations)  
+9. [📁 Project Files](#-project-files)  
+10. [👤 Author](#-author)
 
 ---
 
@@ -55,10 +55,10 @@ Zomato-Insight-Dashboard-PowerBI/
 - **Dataset Source:** Zomato raw transactional data (Excel)  
 - **Data Type:** Orders, restaurants, customers, delivery partners, ratings  
 
-**Data Preparation & Modeling:**  
-- Data cleaning and transformation using **Power Query**  
-- Creation of calculated measures using **DAX**  
-- Data modeling aligned with business KPIs defined in the BRD  
+**Data Preparation:**  
+- Data cleaning and transformation using Power Query  
+- Creation of calculated measures using DAX  
+- Data modeling aligned with KPIs defined in the BRD  
 
 **Tools Used:**  
 - Power BI  
@@ -71,9 +71,9 @@ Zomato-Insight-Dashboard-PowerBI/
 This project contains **one interactive Power BI dashboard** delivering end-to-end insights into Zomato’s delivery performance.
 
 **Dashboard Highlights:**  
-- KPI Cards: Total Orders, Average Delivery Time, Customer Satisfaction Score, Discount Utilization, Average Order Value  
-- Total Orders trend by year  
-- Rating distribution across customers  
+- KPI Cards: Total Orders, Average Delivery Time, Customer Satisfaction, Discount Utilization, Average Order Value  
+- Total Orders trend analysis  
+- Rating distribution overview  
 - Cuisine popularity comparison  
 - Delivery time analysis by customer location  
 - Top restaurants by order volume  
@@ -82,27 +82,27 @@ This project contains **one interactive Power BI dashboard** delivering end-to-e
 
 ## 🧭 How to Use the Dashboard  
 - Use slicers to filter by restaurant, customer location, delivery partner, rating, and date  
-- Review KPI cards for a quick performance snapshot  
-- Hover over charts for detailed tooltips  
-- Compare delivery efficiency and ratings across locations  
+- Review KPI cards for quick performance insights  
+- Hover over visuals to view detailed tooltips  
+- Compare delivery efficiency across locations  
 
 ---
 
 ## 🔍 Insights & Key Findings  
-- Order volume shows a noticeable decline in the most recent year  
-- Certain cuisines consistently receive higher order volumes  
-- Delivery time varies significantly across customer locations  
-- Ratings are evenly distributed, indicating mixed customer satisfaction  
-- High discount utilization impacts overall order value trends  
+- Order volume declined in the most recent year  
+- Certain cuisines consistently attract higher demand  
+- Delivery time varies significantly by location  
+- Customer ratings show mixed satisfaction levels  
+- High discount usage impacts overall order value  
 
 ---
 
 ## 💼 Business Value & Recommendations  
-- Improve delivery efficiency in high-delay locations  
-- Focus marketing efforts on high-demand cuisines  
-- Enhance service quality to improve customer ratings  
-- Optimize discount strategies to balance revenue and growth  
-- Regularly monitor restaurant performance using dashboard KPIs  
+- Improve delivery efficiency in high-delay regions  
+- Promote high-demand cuisines strategically  
+- Enhance service quality to improve ratings  
+- Optimize discount strategies to protect margins  
+- Use dashboard KPIs for continuous performance monitoring  
 
 ---
 
